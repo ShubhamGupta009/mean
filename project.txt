@@ -1,0 +1,5 @@
+This project have 2 main parts user and places and structure of both will be same where 
+Here pages folder is for all pages related to user and will not be reused
+Component folder is particularly for all components that will be used again and again
+
+we also have a shared folder which will have components and data that is required for any projects  
