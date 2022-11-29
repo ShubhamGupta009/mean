@@ -10,8 +10,8 @@ const App = () => {
       <MainNavigation />
       <main>
       <Routes>
-        <Route path="/" exact="false" element={<Users/>} />
-        <Route path="/places/new" element={<NewPlaces/>} />
+        <Route path="/" element={<Users/>} />
+        <Route path="/places/new"  element={<NewPlaces/>} />
       </Routes>
       </main>
     </BrowserRouter>
